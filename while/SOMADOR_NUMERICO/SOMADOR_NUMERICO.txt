@@ -1,0 +1,36 @@
+ALGORITMO: "somador_numerico"
+
+DESCRIÇÃO: Somador. for
+
+-------------------------------------------------------
+
+
+
+algoritmo "somador_numerico"
+
+var
+
+   N, C, S: inteiro
+
+inicio
+
+
+
+      s <- 0
+
+      para C <- 1 ate 5 faca
+
+      Escreval ("Digite o valor:")
+
+      leia (N)
+
+      s <- S + N
+
+      escreval("A soma e :",S)
+
+      fimpara
+
+
+
+fimalgoritmo 
+
